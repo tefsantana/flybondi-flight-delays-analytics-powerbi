@@ -50,10 +50,6 @@ The dashboard follows a question → insight → implication narrative and inclu
 - Time-based trends (year/month/seasonality)
 - Weather impact analysis
 
-### 🖼️ Preview
-
-![Dashboard Overview](assets/dashboard-overview.png)
-
 ---
 
 ## 🔍 Key Insights (Summary)
