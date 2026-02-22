@@ -18,12 +18,14 @@ This project focuses on answering:
 
 ---
 
-## 🧾 Dataset
+## 📂 Dataset
 
-- Flight operations dataset (2023–2025) containing operational, temporal, climate and occupancy variables.
-- Source: provided via Google Sheets/Drive (linked in the report).
+Public dataset available at:
 
-> Note: The full dataset is not included in this repository.
+https://drive.google.com/file/d/1pfAmrgEyqHQjOpLraFQ3wc9s9lQY-cFU/view?usp=sharing
+
+The dataset is not stored in this repository to keep it lightweight.
+Please download the file from the link above and refresh the Power BI model if needed.
 
 ---
 
