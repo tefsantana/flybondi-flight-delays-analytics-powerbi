@@ -85,7 +85,6 @@ The dashboard follows a question → insight → implication narrative and inclu
 
 - `dashboard/` → Power BI `.pbix`
 - `docs/` → Full analysis report (PDF)
-- `assets/` → Dashboard screenshots used in this README
 
 ---
 
